@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Mini_Create_Hangman.py'],
-             pathex=['C:\\Users\\BHar\\Desktop\\Python Projects\\MiniCreate Hangman'],
+             pathex=[''],
              binaries=[],
              datas=[],
              hiddenimports=[],
